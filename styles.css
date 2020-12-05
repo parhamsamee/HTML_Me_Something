@@ -1,0 +1,35 @@
+
+h1, h2, h3 {
+    margin: 0;
+}
+h1 {
+    background-color: lightslategray;
+    opacity: 0.5;
+}
+main, h1 {
+    padding: 20px;
+}
+h2, h3 {
+    padding: 10px;
+}
+body {
+    display: block;
+    text-align: center;
+    background-color: lightgray;
+    font-family: monospace;
+  }
+img {
+    border-style: round;
+}
+
+.text {
+    margin: 10px;
+}
+.text p {
+    width: 200px;
+    margin: 0 auto;
+}
+ #pano {
+     padding-top: 20px;
+     opacity: 0.8;
+ }
